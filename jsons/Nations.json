@@ -1,38 +1,36 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
-		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
-		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
-		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
-		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"name": "Triple threat triad",
+		"leaderName": "Ligthing bolt zolt",
+		"adjective": ["Criminal"],
+		"startBias": ["Avoid [Forest]"],
+		"preferredVictoryType": "Domination",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
-	}
+		"startIntroPart1": "Since you're obviously fresh off the boat, let me explain a couple things. You're in Triple Threat Triad territory, and we're about to put you in the hospital",
+		"startIntroPart2": "Get ready to live in a place where crime and power decide everything!!",
+
+		"declaringWar": "Your end is near. No one challenges the triad and lives to tell the tale!",
+		"attacked": "¿Do you attack the triad? You will regret it very soon!",
+		"defeated": "We will come back stronger and with allies in every corner.",
+		"introduction": "We are the law in this place, and you are just a pawn on our chessboard.",
+
+		"neutralHello": "what do you want?",
+		"neutralLetsHearIt": ["Speak but do it quickly.","and you what?","let's dance."],
+		"neutralNo": ["It's not possible, you better give up now.","No!","we flatly refuse."],
+		"neutralYes": ["We like that.","Yes.","we can consider it..."],
+
+		"hateHello": "You again?",
+		"hateLetsHearIt": ["Tell me, before I lose my patience!","speak quickly, I don't have all day","alright."],
+		"hateNo": ["We will never accept that!","You have nothing to offer us","Not bad."],
+		"hateYes": ["We like that.","Yes.","we can consider it..."],
+
+		"afterPeace": "There will be peace only for now.",
+		"tradeRequest": "I'm glad to do business with you.",
+
+		"outerColor": [0,0,0],
+		"innerColor": [128,120,128],
+		"unique": ["[+30]% Strength <vs [City-States]>", "[+1] Movement <for [Mounted] units>"],
+		"cities": ["Triad Street, Sato's Workshop, Black Market, Fire District, Water District, Earth District, Cave of Crime, Benders Club,Abandoned Farm, The Docks"]
+ 	}
 ]
